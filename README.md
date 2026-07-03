@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">Software Developer | Building Scalable Web Applications</h3>
+<h3 align="center"> AI Developer | Building Scalable Web Applications</h3>
 
 ---
 
