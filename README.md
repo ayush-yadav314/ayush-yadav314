@@ -152,5 +152,10 @@ DSA
 <p align="center">
   <i>"Turning ideas into intelligent systems."</i>
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayush-yadav314/ayush-yadav314/output/github-contribution-grid-snake.svg">
+</p>
 
 
