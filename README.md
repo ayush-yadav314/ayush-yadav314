@@ -1,80 +1,156 @@
-<h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center"> AI Developer | Building Scalable Web Applications</h3>
+<h1 align="center">Hey 👋, I'm Ayush Yadav</h1>
 
----
-
-### 🚀 About Me
-- 💻 Passionate **Software Developer** from India  
-- 🔭 Currently working on **Real Estate Landing Page**  
-- 🌱 Learning **Django & Flask**  
-- ⚡ Interested in **Full Stack Development & Cloud Technologies**  
-- 📫 Reach me at: **ayushyadava9170@gmail.com**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ayush-yadav-634644321/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/profile/ayushyadava9170" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,php" />
-</p>
-
-#### ⚙️ Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,express,django,flask,spring" />
-</p>
-
-#### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-#### ☁️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,unity" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">🤖 Agentic AI Developer | GenAI | Java DSA | Python</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-yadav314&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <a href="https://github.com/ayush-yadav314">
+    <img src="https://komarev.com/ghpvc/?username=ayush-yadav314&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
+
+---
+
+## 🚀 About Me
+
+```text
+🎓 B.Tech CSE (AI) — 3rd Year
+🤖 Focused on Agentic AI & Generative AI
+🧠 Learning DSA with Java
+🐍 Building AI projects with Python
+🌐 Interested in AI Automation & Multi-Agent Systems
+```
+
+* 🔭 Currently building **AI Agents & Automation Systems**
+* 🌱 Currently learning **LangGraph, LangChain, RAG & Agentic AI**
+* 💻 Practicing **Java DSA & LeetCode**
+* ⚡ I like turning ideas into working AI applications
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+### AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+`LangGraph` • `LangChain` • `Ollama` • `RAG` • `Prompt Engineering` • `Multi-Agent Systems`
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,react,streamlit" />
+</p>
+
+`Playwright` • `REST APIs` • `Plotly` • `yfinance`
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Autonomous Browser Agent
+
+> AI agent that converts plain-English goals into browser actions.
+
+**Tech:** Python • Ollama • Playwright • Streamlit
+
+**Features**
+
+* 🌐 Browser automation
+* 🧠 Local LLM reasoning
+* 🔎 Web navigation
+* 📄 DOM understanding
+* ⚡ Natural-language task execution
+
+---
+
+### 📊 Multi-Agent Financial Analyst
+
+> AI-powered financial analysis dashboard using multiple agents.
+
+**Tech:** Python • LangGraph • Gemini • yfinance • Tavily • Streamlit
+
+**Features**
+
+* 📈 Stock analysis
+* 🤖 Multi-agent workflow
+* 📰 Web research
+* 📊 Interactive dashboard
+* 💡 AI-generated financial insights
+
+---
+
+## 🧩 Currently Learning
+
+```text
+Agentic AI
+   ├── LangGraph
+   ├── LangChain
+   ├── RAG
+   ├── Tool Calling
+   ├── Multi-Agent Systems
+   └── AI Automation
+
+DSA
+   ├── Arrays
+   ├── Strings
+   ├── Binary Search
+   ├── Recursion
+   ├── Sorting
+   └── Bit Manipulation
+```
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayush-yadav314&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-yadav314&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-yadav314&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-yadav314&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ayush-yadav314&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 Achievements
-- Consistently improving problem-solving skills on HackerRank  
-- Building real-world full-stack projects  
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayush-yadav314/ayush-yadav314/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-### 💡 Quote
-> "Code. Learn. Build. Repeat."
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ayush-yadav314">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐️ From [Ayush Yadav](https://github.com/ayush-yadav314)
+<h3 align="center">⚡ Building. Learning. Automating. 🤖</h3>
+
+<p align="center">
+  <i>"Turning ideas into intelligent systems."</i>
+</p>
+
 
