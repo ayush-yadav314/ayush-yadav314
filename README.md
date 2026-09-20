@@ -52,6 +52,18 @@
 `Playwright` • `REST APIs` • `Plotly` • `yfinance`
 
 ---
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ayush-yadav314">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://https://www.linkedin.com/in/ayush-yadav-634644321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 🔥 Featured Projects
 
@@ -135,19 +147,6 @@ DSA
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayush-yadav314/ayush-yadav314/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ayush-yadav314">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
