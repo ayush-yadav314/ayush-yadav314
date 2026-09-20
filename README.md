@@ -117,6 +117,11 @@ DSA
 </p>
 
 ---
+<h2 align="center">🧩 LeetCode</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/cseayush?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ## 🔥 Contribution Streak
 
