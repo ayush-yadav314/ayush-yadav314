@@ -54,7 +54,7 @@
 <sub><code>LANGUAGES</code></sub><br>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" alt="Languages">
 
-<br><br>
+<br>
 
 <sub><code>AI / GENAI</code></sub><br>
 <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge" alt="LangGraph">
@@ -66,13 +66,13 @@
 <img src="https://img.shields.io/badge/Tool_Calling-7C3AED?style=for-the-badge" alt="Tool Calling">
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-2F6BFF?style=for-the-badge" alt="Multi-Agent Systems">
 
-<br><br>
+<br>
 
 <sub><code>EXPLORING</code></sub><br>
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&labelColor=0D1117&color=00F7FF" alt="RAG">
 <img src="https://img.shields.io/badge/Vector_Databases-0D1117?style=for-the-badge&labelColor=0D1117&color=00F7FF" alt="Vector Databases">
 
-<br><br>
+<br>
 
 <sub><code>AUTOMATION / DATA</code></sub><br>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&labelColor=0D1117&color=A855F7" alt="REST APIs">
 
-<br><br>
+<br>
 
 <sub><code>FRONTEND AND TOOLS</code></sub><br>
 <img src="https://skillicons.dev/icons?i=react,vite,streamlit,git,github,vscode,vercel&theme=dark" alt="Tools">
@@ -148,8 +148,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-yadav314&show_icons=true&hide_border=false&border_color=7C3AED&border_radius=16&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=C9D6EE" alt="GitHub stats" height="190">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-yadav314&layout=compact&hide_border=false&border_color=7C3AED&border_radius=16&bg_color=0D1117&title_color=00F7FF&text_color=C9D6EE" alt="Most used languages" height="190">
+<img src="assets/stats.svg" alt="GitHub stats" width="49%">
+<img src="assets/langs.svg" alt="Most used languages" width="49%">
 
 <br>
 
@@ -157,7 +157,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-yadav314&bg_color=0D1117&color=00F7FF&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&title_color=00F7FF" alt="Contribution graph" width="100%">
+<img src="assets/contrib-graph.svg" alt="Contribution graph" width="100%">
 
 <br>
 
